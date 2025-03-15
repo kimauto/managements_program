@@ -84,7 +84,8 @@ V2
 
 ## 🛠️ 프로젝트 아키텍쳐
 
-![image.png](attachment:ff1129ab-e0b6-413a-88c7-ad2179b15966:image.png)
+![스크린샷 2025-03-15 171534](https://github.com/user-attachments/assets/dcb30837-3dec-47f0-96eb-2b9bc4d201b6)
+
 
 <br>
 
