@@ -77,7 +77,8 @@ V2
 <br />
 
 ## 🛠️ 프로젝트 아키텍쳐
-![no-image](https://user-images.githubusercontent.com/80824750/208294567-738dd273-e137-4bbf-8307-aff64258fe03.png)
+![no-image](![image](https://github.com/user-attachments/assets/f76a485f-82bb-4037-84b6-8aad68cdef2a)
+)
 
 <br>
 
